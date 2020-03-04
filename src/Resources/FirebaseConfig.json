@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyChJVrXnUykWYhmOQhSwfvaKl5FaFLZcR4",
+    "authDomain": "labs-lunch-roulette.firebaseapp.com",
+    "databaseURL": "https://labs-lunch-roulette.firebaseio.com",
+    "projectId": "labs-lunch-roulette",
+    "storageBucket": "labs-lunch-roulette.appspot.com",
+    "messagingSenderId": "599344453943",
+    "appId": "1:599344453943:web:96f24ce46f14086a1c62b2"
+}
